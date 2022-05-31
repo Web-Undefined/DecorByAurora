@@ -3346,6 +3346,13 @@ table.alt tbody tr td {
     padding-left: 0;
 }
 
+@media screen and (min-width: 1280px) {
+    .features > ul {
+        flex: 33.33%;
+        max-width: 33.33%;
+    }
+}
+
 .features > ul > li {
     list-style: none;
     margin-top: 3rem;
