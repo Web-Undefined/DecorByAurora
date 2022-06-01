@@ -4497,6 +4497,7 @@ body.is-navPanel-visible #navPanel {
 .testimonials p {
     color: #292f33 !important;
     margin-bottom: 1em;
+    font-size: 0.875em;
 }
 .innerTest {
     max-width: 1200px;
