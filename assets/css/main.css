@@ -2870,7 +2870,8 @@ table.alt tbody tr td {
     color: #ffffff;
     background-color: #4797ec;
     background-image: url("../../images/overlay.png"),
-        linear-gradient(45deg, rgba(71, 151, 236, 0), #a9d8e0 80%);
+        linear-gradient(45deg, rgba(71, 151, 236, 0), #4681c0 80%);
+    /* background-image: url("../../images/overlay.png"); */
     background-size: auto, auto;
     background-repeat: repeat, no-repeat;
 }
